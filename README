@@ -10,3 +10,12 @@
 чтобы проверить работоспособность самой игры.
 Для упрощения всего, в качестве графики используются 
 обычные кнопки и соответствующие типу клетки расцветка.
+
+![Иллюстрация к проекту](https://github.com/adzunyan69/MiniGame_qt5/tree/master/images/image1.png)
+
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+
+{username} — ваш ник на ГитХабе;
+{repository} — репозиторий где хранятся картинки;
+{branch} — ветка репозитория;
+{path} — путь к месту нахождения картинки.
