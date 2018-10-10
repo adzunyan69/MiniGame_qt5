@@ -11,4 +11,4 @@
 Для упрощения всего, в качестве графики используются 
 обычные кнопки и соответствующие типу клетки расцветка.
 
-![alt text](https://github.com/adzunyan69/MiniGame_qt5/blob/master/images/image1.png)
+![](https://github.com/adzunyan69/MiniGame_qt5/blob/master/images/image2.png)
